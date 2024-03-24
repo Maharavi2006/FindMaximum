@@ -41,7 +41,8 @@ def max_marks(marks):
 ![Screenshot 2024-03-24 185950](https://github.com/Maharavi2006/FindMaximum/assets/154535981/3a82cfba-a250-484f-aab6-1a54240523be)
 
 3.Using the builtin functions
-![Screenshot 2024-03-24 185810](https://github.com/Maharavi2006/FindMaximum/assets/154535981/353991a2-3b6f-446d-b892-caeb3253e48c)
+![image](https://github.com/Maharavi2006/FindMaximum/assets/154535981/23c94c2b-5040-4502-afdf-7f205c80d1fa)
+
 
 
 
