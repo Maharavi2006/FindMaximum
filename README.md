@@ -44,7 +44,8 @@ def max_marks(marks):
 ![Screenshot 2024-03-24 185950](https://github.com/Maharavi2006/FindMaximum/assets/154535981/3a82cfba-a250-484f-aab6-1a54240523be)
 
 3.Using the builtin functions
-![image](https://github.com/Maharavi2006/FindMaximum/assets/154535981/23c94c2b-5040-4502-afdf-7f205c80d1fa)
+![Screenshot 2024-03-24 194735](https://github.com/Maharavi2006/FindMaximum/assets/154535981/7cf6910b-884d-460a-afa5-ddaec36ee90b)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
